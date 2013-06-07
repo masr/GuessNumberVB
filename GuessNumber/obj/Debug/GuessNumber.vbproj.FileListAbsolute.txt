@@ -1,0 +1,10 @@
+E:\workspace\vb\GuessNumber\GuessNumber\obj\Debug\ResolveAssemblyReference.cache
+E:\workspace\vb\GuessNumber\GuessNumber\obj\Debug\GuessNumber.Form1.resources
+E:\workspace\vb\GuessNumber\GuessNumber\obj\Debug\GuessNumber.Resources.resources
+E:\workspace\vb\GuessNumber\GuessNumber\obj\Debug\GuessNumber.vbproj.GenerateResource.Cache
+E:\workspace\vb\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+E:\workspace\vb\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+E:\workspace\vb\GuessNumber\GuessNumber\bin\Debug\GuessNumber.xml
+E:\workspace\vb\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+E:\workspace\vb\GuessNumber\GuessNumber\obj\Debug\GuessNumber.xml
+E:\workspace\vb\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb

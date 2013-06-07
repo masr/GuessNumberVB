@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GuessNumber">
+</Property><Property Name="Solution File" Value="L:\backup\workspace\vb\GuessNumber\GuessNumber.sln">
+</Property><Property Name="User Options File" Value="L:\backup\workspace\vb\GuessNumber\GuessNumber.suo">
+</Property><Property Name="Date" Value="2013年6月2日">
+</Property><Property Name="Time" Value="21:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GuessNumber.sln" Description="File successfully backed up as L:\backup\workspace\vb\GuessNumber\Backup\GuessNumber.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GuessNumber.suo" Description="File successfully backed up as L:\backup\workspace\vb\GuessNumber\Backup\GuessNumber.suo">
+</Event><Event ErrorLevel="0" Project="" Source="GuessNumber.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GuessNumber.sln" Description="Converted">
+</Event></UpgradeLog>
